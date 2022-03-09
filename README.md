@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @intellij-translation-plugin-bot
